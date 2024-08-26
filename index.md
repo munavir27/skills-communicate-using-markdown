@@ -7,3 +7,7 @@
 - ```javascript
   var skill="MERN Stack Developer";
   ```
+
+- [x] Feature Implementation.
+- [x] Code Quality and Best Practices.
+- [ ] Time wasting or scope out
